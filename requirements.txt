@@ -1,5 +1,5 @@
-pytest
-playwright
-pytest-playwright
-allure-pytest
-pytest-html
+pytest==8.2.0
+playwright==1.44.0
+pytest-playwright==0.5.0
+allure-pytest==2.13.5
+pytest-html==4.1.1
